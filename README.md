@@ -1,28 +1,82 @@
-## 智生活 前台 
+## Contents
+----
 
-## 智生活 後台
+#### 智生活前台系統
+<!-- - Summary:
+- Description:
+- System Framework & Version: 
+- Other Extentions:
+- 補充 SPA GTM :
+- Gitlab Repository: 
 
-To work locally with this project, you'll have to follow the steps below:
+| 功能/頁面 | 重點描述 | 連結  |   Pages/Components  | API串接 | 開發狀態 | 相關issue    |
+| :----:      |    :----:   |   :-----:     |   :-----:     |   :-----:     |    :----:   |   :-----:     |
+| Header      | Title       | Here's this   | Title       | Here's this   | Title       | Here's this   |  -->
 
-1. Fork, clone or download this project
-1. [Install][] GitBook `npm install gitbook-cli -g`
-1. Fetch GitBook's latest stable version `gitbook fetch latest`
-1. Preview your project: `gitbook serve`
-1. Add content
-1. Generate the website: `gitbook build` (optional)
-1. Push your changes to the master branch: `git push`
+#### 智生活後台系統
+<!-- - Summary:
+- Description:
+- System Framework & Version: 
+- Other Extentions:
+- Gitlab Repository: 
 
-## 票券後台
+| 功能/頁面 | 重點描述 | 連結  |   Pages/Components  | API串接 | 開發狀態 | 相關issue    |
+| :----:      |    :----:   |   :-----:     |   :-----:     |   :-----:     |    :----:   |   :-----:     |
+| Header      | Title       | Here's this   | Title       | Here's this   | Title       | Here's this   |  -->
 
+#### 票券後台
+<!-- - Summary:
+- Description:
+- System Framework & Version: 
+- Other Extentions:
+- Gitlab Repository:
 
-## 補充-各平台帳號/部署
+| 功能/頁面 | 重點描述 | 連結  |   Pages/Components  | API串接 | 開發狀態 | 相關issue    |
+| :----:      |    :----:   |   :-----:     |   :-----:     |   :-----:     |    :----:   |   :-----:     |
+| Header      | Title       | Here's this   | Title       | Here's this   | Title       | Here's this   |  -->
 
-If you forked this project for your own use, please go to your project's
-**Settings** and remove the forking relationship, which won't be necessary
-unless you want to contribute back to the upstream project.
+#### 票券電子票夾前台
+<!-- - Summary:
+- Description:
+- System Framework & Version: 
+- Other Extentions:
+- Gitlab Repository:
 
-## 補充-Wordpress
+| 功能/頁面 | 重點描述 | 連結  |   Pages/Components  | API串接 | 開發狀態 | 相關issue    |
+| :----:      |    :----:   |   :-----:     |   :-----:     |   :-----:     |    :----:   |   :-----:     |
+| Header      | Title       | Here's this   | Title       | Here's this   | Title       | Here's this   |  -->
 
+#### 各平台部署
+<!-- | 平台 | link| 部署流程 | 注意事項  |   相關wiki / issue   
+| :----:      |    :----:   |   :-----:     |   :-----:     |   :-----:     |
+| 智生活前台staging      | Title       | Here's this   | Title       | Here's this   | 
+| 智生活前台production (含AWS)      | Title       | Here's this   | Title       | Here's this   | 
+| 智生活後台staging      | Title       | Here's this   | Title       | Here's this   | 
+| 智生活後台production      | Title       | Here's this   | Title       | Here's this   |
+| 票券後台    | Title       | Here's this   | Title       | Here's this   | 
+| 票券電子票夾    | Title       | Here's this   | Title       | Here's this   | 
+| 票券店家   | Title       | Here's this   | Title       | Here's this   |  -->
+
+#### 各平台帳號
+<!-- | 平台 | link | 角色 & 權限 | 其他 |   相關wiki / issue    |
+| :----:      |    :----:   |   :-----:     |   :-----:     |   :-----:     |
+| 智生活前台staging      | Title       | Here's this   | Title       | Here's this   |
+| 智生活前台production    | Title       | Here's this   | Title       | Here's this   |
+| 智生活後台staging     | Title       | Here's this   | Title       | Here's this   |
+| 智生活後台production     | Title       | Here's this   | Title       | Here's this   | 
+| 票券後台    | Title       | Here's this   | Title       | Here's this   | 
+| 票券電子票夾    | Title       | Here's this   | Title       | Here's this   | 
+| 票券店家(廠商核銷)   | Title       | Here's this   | Title       | Here's this   |  -->
+
+#### 其他補充
+<!-- - maprogram Wordpress 架設 & 備份 
+- 票券總整理：異常處理 & 日常DB處理指令
+-  票券廠商端核銷 -> 票券後台 流程
+- postman & environment
+- 綠界今碩
+- AWS -->
+
+#### Gitbook建置流程
 ----
 
 Forked from @virtuacreative
